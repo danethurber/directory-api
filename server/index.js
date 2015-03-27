@@ -8,7 +8,7 @@ app.use(function(req, res, next) {
 });
 
 app.get('/', function(req, res){
-  res.send('hello world');
+  res.send('hello world part 2');
 });
 
 module.exports = app;
