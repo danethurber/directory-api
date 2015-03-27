@@ -1,14 +1,13 @@
 var express = require('express');
+var api = require('../api');
 
 var app = express();
+
+app.use('/v1', api);
 
 app.use(function(req, res, next) {
   console.log('%s %s %s', req.method, req.url, req.path);
   next();
-});
-
-app.get('/', function(req, res){
-  res.send('hello world part 2');
 });
 
 module.exports = app;
