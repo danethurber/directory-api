@@ -1,0 +1,12 @@
+{
+  "collection": [{
+    "id": 1,
+    "name": "Dane Thurber"
+  },{
+    "id": 2,
+    "name": "Leo Duran"
+  }],
+  "meta": {
+    "count": 2
+  }
+}

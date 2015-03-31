@@ -1,0 +1,24 @@
+{
+  "collection": [{
+    "id": 11,
+    "name": "Steve Jobs"
+  },{
+    "id": 12,
+    "name": "Jonathan Ive"
+  },{
+    "id": 13,
+    "name": "Tim Cook"
+  },{
+    "id": 14,
+    "name": "Steve Wozniak"
+  },{
+    "id": 15,
+    "name": "Ronald Wayne"
+  },{
+    "id": 16,
+    "name": "Jeff Goldblum"
+  }],
+  "meta": {
+    "count": 6
+  }
+}

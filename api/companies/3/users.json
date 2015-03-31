@@ -1,0 +1,21 @@
+{
+  "collection": [{
+    "id": 21,
+    "name": "Bill Gates"
+  },{
+    "id": 22,
+    "name": "Paul Allen"
+  },{
+    "id": 23,
+    "name": "Ric Weiland"
+  },{
+    "id": 24,
+    "name": "Bob Wallace"
+  },{
+    "id": 25,
+    "name": "Bob O'Rear"
+  }],
+  "meta": {
+    "count": 5
+  }
+}
