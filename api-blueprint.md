@@ -41,13 +41,3 @@
   }
 }
 ```
-
-## GET /users/:id
-
-```
-{
-  id: 1,
-  first_name: 'Dane',
-  last_name: 'Thurber'
-}
-```
